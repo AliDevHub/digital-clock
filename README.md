@@ -31,3 +31,11 @@ This project is a digital clock built with HTML, CSS, and JavaScript. It display
 
 ## Contact
 Feel free to reach out for collaboration or feedback: aliraza972003@gmail.com
+
+#### Notes on the README:
+- **Live Demo**: I’ve included a placeholder GitHub Pages URL (`https://alidevhub.github.io/digital-clock/`). You’ll need to enable GitHub Pages to make this link work (see Step 4 below).
+<a href="https://alidevhub.github.io/dark-light-mode-toggle/">Live Demo</a>
+- **Screenshot**: The README references a screenshot (`assets/image.png`). If you haven’t added a screenshot yet, 
+
+take one of your search bar, save it in an `assets` folder, and update the repository (I’ll guide you on this if needed).
+- **Contact**: Replace `aliraza972003@gmail.com` with your actual email address.
